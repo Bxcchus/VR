@@ -1,0 +1,19 @@
+{
+  "name": "CampusExplorer.Runtime",
+  "rootNamespace": "CampusExplorer",
+  "references": [
+    "Unity.InputSystem",
+    "Unity.XR.CoreUtils",
+    "Unity.XR.Interaction.Toolkit",
+    "UnityEngine.UI"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

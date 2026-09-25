@@ -1,0 +1,24 @@
+{
+  "name": "CampusExplorer.PlayModeTests",
+  "rootNamespace": "CampusExplorer.Tests",
+  "references": [
+    "CampusExplorer.Runtime",
+    "Unity.InputSystem",
+    "Unity.XR.CoreUtils",
+    "Unity.XR.Management",
+    "Unity.XR.Interaction.Toolkit"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
+

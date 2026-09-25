@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ExteriorGrass_Field
+  m_Shader: {fileID: 4800000, guid: 163ef11613a0a8545ae0b46530b875ca, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 19c0521b836f7a84a8b0e42a372adbc0, type: 3}
+        m_Scale: {x: 9, y: 9}
+        m_Offset: {x: 0, y: 0}
+    - _IndoorBumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IndoorOcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IndoorSpecularMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IndoorTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 33553c387940fad49a93e67230f204c6, type: 3}
+        m_Scale: {x: 9, y: 9}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 2800000, guid: 5760104b9ac6cbb449658f92d0c8efa0, type: 3}
+        m_Scale: {x: 9, y: 9}
+        m_Offset: {x: 0, y: 0}
+    - _OpacityMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RoughnessMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMap:
+        m_Texture: {fileID: 2800000, guid: 35dbd67fc333a0c4eab3b05a03aa32c4, type: 3}
+        m_Scale: {x: 9, y: 9}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 0.32
+    - _ClipMaxX: 10001
+    - _ClipMaxZ: 10001
+    - _ClipMinX: 10000
+    - _ClipMinZ: 10000
+    - _GrassDetailStrength: 0.24
+    - _HasMetallicMap: 0
+    - _HasNormalMap: 1
+    - _HasOcclusionMap: 0.18
+    - _HasOpacityMap: 0
+    - _HasRoughnessMap: 0
+    - _HasSpecularMap: 0
+    - _IndoorBumpScale: 0
+    - _IndoorSmoothness: 0.5
+    - _Metallic: 0
+    - _Opacity: 1
+    - _Smoothness: 0.04
+    m_Colors:
+    - _Color: {r: 0.59, g: 0.605, b: 0.2, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _IndoorColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    - _SpecColor: {r: 0.025, g: 0.025, b: 0.025, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

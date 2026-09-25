@@ -1,0 +1,35 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Tt]mp/
+.utmp/
+.tmp_*
+[Uu]ser[Ss]ettings/
+/.codex-pptx-build/
+/.unity-audit/
+/docs/
+/Evidence/
+/output/
+/Tools/
+/POLISH_BACKLOG.md
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+/Assets/Resources.meta
+/Assets/XR 1.meta
+/Assets/XR/Settings 1.meta
+/Assets/CampusExplorer/External/ModernLuxuryVilla/Textures/ChatGPT Image 28 feb 2026, 10_57_50 a.m..png
+/Assets/CampusExplorer/External/ModernLuxuryVilla/Textures/ChatGPT Image 28 feb 2026, 10_57_50 a.m..png.meta
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+sysinfo.txt

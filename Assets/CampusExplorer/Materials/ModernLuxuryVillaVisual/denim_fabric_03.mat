@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 'denim_fabric_03 [Visual]'
+  m_Shader: {fileID: 4800000, guid: 2e6a3e155a3fa6748b8e98e0d0c1032e, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 53bbfdf72105eec4284df14b03c5ef17, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 8989cdee1d54a4046aa2b7cb456346bf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicMap:
+        m_Texture: {fileID: 2800000, guid: 78ef7d55016a0cc40a66ba56a6d01f9f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OpacityMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RoughnessMap:
+        m_Texture: {fileID: 2800000, guid: 5f0dabb1af1f1ff4d953e41902467acb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMap:
+        m_Texture: {fileID: 2800000, guid: c92bce47f9b0fd04d88786e546b54771, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 0.65
+    - _EmissionIntensity: 0
+    - _HasEmissionMap: 0
+    - _HasMetallicMap: 1
+    - _HasNormalMap: 1
+    - _HasOcclusionMap: 0
+    - _HasOpacityMap: 0
+    - _HasRoughnessMap: 1
+    - _HasSpecularMap: 1
+    - _Metallic: 0
+    - _OcclusionStrength: 0.62
+    - _Opacity: 1
+    - _RoughnessMapIsGloss: 0
+    - _Smoothness: 0.5
+    - _SmoothnessBias: -0.015
+    - _SmoothnessScale: 1
+    - _SpecularScale: 0.52
+    m_Colors:
+    - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.04, g: 0.04, b: 0.04, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

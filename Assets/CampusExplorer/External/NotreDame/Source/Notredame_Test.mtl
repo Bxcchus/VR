@@ -1,0 +1,15 @@
+newmtl Interior_80K_Interior_80K
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 10.000000
+illum 2
+map_Kd Interior_80K_B.jpg
+
+newmtl Exterior_Single_Exterior_Single_Material_u1_v1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 10.000000
+illum 2
+map_Kd Exterior_Single_u1_v1.jpg

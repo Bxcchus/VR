@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CampusExplorer/Scenes/MainMenu.unity
+    guid: cc9b0a7636cca0641a1e4240b86d64d0
+  - enabled: 1
+    path: Assets/CampusExplorer/Scenes/ModernVillaTour.unity
+    guid: a6e4bfecf127e394fa6a6fc22b6d0eb2
+  - enabled: 0
+    path: Assets/CampusExplorer/Scenes/ModernVillaSource.unity
+    guid: 2e60b629572bd3a48abb7a5f246a39c6
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: fa4da370cecc76640b17de40247f9edb, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fc83ef1d64af9a04e8ec3e07f20c279c, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e66902cc0c6d3594a903f9f9cd5f5a4c, type: 2}

@@ -1,0 +1,21 @@
+Model Information:
+* title: Notre Dame: Indoor+Outdoor (crowdsourced)
+* source: https://sketchfab.com/3d-models/notre-dame-indooroutdoor-crowdsourced-461a9a51ba1b40bc942b5dfa04c1100f
+* short source: https://skfb.ly/6RyOK
+* author: Raiz (https://sketchfab.com/RaizVR)
+
+Model License:
+* license type: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements: Author must be credited. Commercial use is allowed.
+
+Required attribution:
+This work is based on "Notre Dame: Indoor+Outdoor (crowdsourced)"
+(https://skfb.ly/6RyOK) by Raiz, licensed under Creative Commons
+Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/).
+
+Project modifications:
+* OBJ material file recreated from the two downloaded base-colour textures.
+* Import scale and axis conversion adjusted for a room-scale XR experience.
+* Texture import size reduced for Meta Quest 3 memory and performance.
+* XR teleportation, points of interest, information panels and collision
+  geometry added by the Campus Explorer project.

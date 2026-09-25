@@ -1,0 +1,1447 @@
+# Blender 5.0.1 MTL File: 'Modern_Luxury_Villa_B5.blend.blend'
+# www.blender.org
+
+newmtl Art_Wall_Main_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gemini_Generated_Image_d7zstbd7zstbd7zs.png
+
+newmtl Art_Wall_Main_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gemini_Generated_Image_r2aoeor2aoeor2ao.png
+
+newmtl Art_Wall_Main_03
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gemini_Generated_Image_5i2y1o5i2y1o5i2y.png
+
+newmtl Art_Wall_Main_04
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gemini_Generated_Image_7ouu397ouu397ouu.png
+
+newmtl Art_Wall_Main_05
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gemini_Generated_Image_tr3h4atr3h4atr3h.png
+
+newmtl Art_Wall_Main_06
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gemini_Generated_Image_kxphrkxphrkxphrk.png
+
+newmtl Art_Wall_Main_07
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gemini_Generated_Image_miyu45miyu45miyu.png
+
+newmtl Art_Wall_Main_08
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gemini_Generated_Image_9761o79761o79761.png
+
+newmtl Art_Wall_Main_09
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gemini_Generated_Image_30vo5z30vo5z30vo.png
+
+newmtl Asphalt_Street
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Asphalt031_2K-PNG_Color.png
+map_Ns Asphalt031_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Asphalt031_2K-PNG_NormalGL.png
+
+newmtl Book_Pages_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Brown_Paper001_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns Paper001_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Paper001_2K-PNG_NormalGL.png
+
+newmtl Brown_planks
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns brown_planks_04_rough_4k.jpg
+map_Bump -bm 10.000000 brown_planks_04_nor_gl_4k.exr
+
+newmtl CPU_AIO_Cooler_Block
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Castle_Wall_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Castle_Wall_sdvtcgja_2K_BaseColor.jpg
+map_Ks Castle_Wall_sdvtcgja_2K_Specular.jpg
+
+newmtl Clear_Marble_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 Onyx001_2K-PNG_NormalGL.png
+
+newmtl Clear_Marble_02
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns Tiles078_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Tiles078_2K-PNG_NormalGL.png
+
+newmtl Clear_Metal050A_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_refl Metal050A_2K-PNG_Metalness.png
+map_Bump -bm 1.000000 Metal050A_2K-PNG_NormalGL.png
+
+newmtl Clear_Wooden_Floor_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Wooden_Floor_wdipfjw_2K_Specular.jpg
+
+newmtl Clock_Texture_Light_01
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Dark_Clear_Metal050A_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_refl Metal050A_2K-PNG_Metalness.png
+map_Bump -bm 1.000000 Metal050A_2K-PNG_NormalGL.png
+
+newmtl Dark_Glass_01
+Ns 624.224915
+Ka 1.000000 1.000000 1.000000
+Kd 0.256590 0.335862 0.488655
+Ks 0.140187 0.140187 0.140187
+Ke 0.000000 0.000000 0.000000
+Ni 1.300000
+d 0.585766
+illum 6
+
+newmtl Dark_Marble_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 Onyx001_2K-PNG_NormalGL.png
+
+newmtl Dark_Metal055A_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns Metal055A_2K-PNG_Roughness.png
+map_refl Metal055A_2K-PNG_Metalness.png
+map_Bump -bm 0.100000 Metal055A_2K-PNG_NormalGL.png
+
+newmtl Dark_Wood089_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns Wood089_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Wood089_2K-PNG_NormalGL.png
+
+newmtl Emission_Light_01
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Fabric061_01
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Fabric061_2K-PNG_Color.png
+map_Ns Fabric061_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Fabric061_2K-PNG_NormalGL.png
+
+newmtl Fabric_Clothes_Cotton_Plain_Weave_Black_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Fabric_Clothes_Cotton_Plain_Weave_White_xfeced0qx_2K_Specular.jpg
+
+newmtl Fabric_Clothes_Cotton_Plain_Weave_White_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Fabric_Clothes_Cotton_Plain_Weave_White_xfeced0qx_2K_AO.jpg
+map_Ks Fabric_Clothes_Cotton_Plain_Weave_White_xfeced0qx_2K_Specular.jpg
+
+newmtl Fabric_Mousepad_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks denim_fabric_05_spec_ior_2k.png
+map_refl denim_fabric_05_metal_2k.exr
+map_Bump -bm 1.000000 denim_fabric_05_nor_gl_2k.exr
+
+newmtl Fabrir_Lamp_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks rough_linen_spec_ior_2k.png
+map_Ns rough_linen_rough_2k.exr
+map_refl rough_linen_metal_2k.exr
+map_Bump -bm 1.000000 rough_linen_nor_gl_2k.exr
+
+newmtl Floor_marble_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns Tiles078_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Tiles078_2K-PNG_NormalGL.png
+
+newmtl Furniture_Fabric_sjfvbjp
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Furniture_Fabric_sjfvbjpc_2K_Specular.jpg
+map_Bump -bm 1.000000 Furniture_Fabric_sjfvbjpc_2K_Normal.jpg
+
+newmtl Furniture_Fabric_sjfvbjp_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Furniture_Fabric_sjfvbjpc_2K_Specular.jpg
+map_Bump -bm 1.000000 Furniture_Fabric_sjfvbjpc_2K_Normal.jpg
+
+newmtl Furniture_Fabric_sjfvbjpc_03
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Furniture_Fabric_sjfvbjpc_2K_Specular.jpg
+map_Bump -bm 1.000000 Furniture_Fabric_sjfvbjpc_2K_Normal.jpg
+
+newmtl Furniture_Fabric_sjfvbjpc_04
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Furniture_Fabric_sjfvbjpc_2K_Specular.jpg
+map_Bump -bm 1.000000 Furniture_Fabric_sjfvbjpc_2K_Normal.jpg
+
+newmtl Furniture_Fabric_sjfvbjpc_05
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Furniture_Fabric_sjfvbjpc_2K_Specular.jpg
+map_Bump -bm 1.000000 Furniture_Fabric_sjfvbjpc_2K_Normal.jpg
+
+newmtl Glass_Opaque_Dark_01
+Ns 899.838440
+Ka 0.873832 0.873832 0.873832
+Kd 0.488640 0.457797 0.404885
+Ks 0.303738 0.303738 0.303738
+Ke 0.000000 0.000000 0.000000
+Ni 1.300000
+d 0.567074
+illum 6
+
+newmtl Glass_Opaque_Green_01
+Ns 656.099976
+Ka 1.000000 1.000000 1.000000
+Kd 0.244336 0.280669 0.169329
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.300000
+d 0.600000
+illum 6
+
+newmtl Glass_Opaque_white_01
+Ns 548.229980
+Ka 0.455319 0.455319 0.455319
+Kd 0.547495 0.547495 0.547495
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.591489
+illum 6
+
+newmtl Glass_Transparent_01
+Ns 437.849731
+Ka 1.000000 1.000000 1.000000
+Kd 0.589202 0.599538 0.547054
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.327496
+illum 9
+
+newmtl Glass_grey_opaque_01
+Ns 12.530636
+Ka 0.780548 0.780548 0.780548
+Kd 0.488640 0.457797 0.404885
+Ks 0.303738 0.303738 0.303738
+Ke 0.000000 0.000000 0.000000
+Ni 1.333000
+d 0.585731
+illum 6
+
+newmtl Gold_Metal048A_01
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Metal048A_2K-PNG_Color.png
+map_Ns Metal048A_2K-PNG_Roughness.png
+map_refl Metal048A_2K-PNG_Metalness.png
+map_Bump -bm 1.000000 Metal048A_2K-PNG_NormalGL.png
+
+newmtl Gravel020_01
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Handle_door_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Kithcen_LED_01
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Leather_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Leather_sjqecg1c_2K_Specular.jpg
+map_Bump -bm 1.000000 Leather_sjqecg1c_2K_Normal.jpg
+
+newmtl Leather_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Leather_sjqecg1c_2K_Specular.jpg
+map_Bump -bm 1.000000 Leather_sjqecg1c_2K_Normal.jpg
+
+newmtl Leather_chair_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Leather_sjqecg1c_2K_Specular.jpg
+map_Bump -bm 1.000000 Leather_sjqecg1c_2K_Normal.jpg
+
+newmtl Light_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 10.000000 10.000000 10.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Light_03
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.959751 1.000000 0.969725
+Ks 0.500000 0.500000 0.500000
+Ke 50.000000 38.699429 24.415255
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Light_04
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.959751 1.000000 0.969725
+Ks 0.500000 0.500000 0.500000
+Ke 79.750374 49.221718 20.089678
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Light_05
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.959751 1.000000 0.969725
+Ks 0.500000 0.500000 0.500000
+Ke 100.000000 77.398857 48.830509
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Light_Bulb_01
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.018
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material_Wine_Bottle
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Metal050A_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_refl Metal050A_2K-PNG_Metalness.png
+map_Bump -bm 1.000000 Metal050A_2K-PNG_NormalGL.png
+
+newmtl Metal055A_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_refl Metal055A_2K-PNG_Metalness.png
+map_Bump -bm 0.100000 Metal055A_2K-PNG_NormalGL.png
+
+newmtl Metal055A_Toaster_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_refl Metal055A_2K-PNG_Metalness.png
+map_Bump -bm 0.100000 Metal055A_2K-PNG_NormalGL.png
+
+newmtl Mirror_01
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.125543 0.127606 0.117116
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 14.299999
+d 1.000000
+illum 2
+
+newmtl Mirror_clear_01
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.433688 0.433688 0.433688
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Motherboard_Image_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gemini_Generated_Image_51ute351ute351ut.png
+
+newmtl Onyx001_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 Onyx001_2K-PNG_NormalGL.png
+
+newmtl Paper001_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns Paper001_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Paper001_2K-PNG_NormalGL.png
+
+newmtl Photo_Furniture_Fabric_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Furniture_Fabric_sjfvcbtc_2K_BaseColor.jpg
+map_Ks Furniture_Fabric_sjfvcbtc_2K_Specular.jpg
+map_Bump -bm 1.000000 Furniture_Fabric_sjfvcbtc_2K_Normal.jpg
+
+newmtl Photo_portrait_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd -s 0.90000004 0.90000004 0.90000004 Gemini_Generated_Image_e1z7f9e1z7f9e1z7.png
+
+newmtl Photo_portrait_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd -s 0.90000004 0.90000004 0.90000004 Gemini_Generated_Image_iuowrliuowrliuow.png
+
+newmtl Plastic006_black_01
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Plastic006_2K-PNG_Color.png
+map_Ns Plastic006_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Plastic006_2K-PNG_NormalGL.png
+
+newmtl Plastic006_grey_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns Plastic006_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Plastic006_2K-PNG_NormalGL.png
+
+newmtl Plastic006_white_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns Plastic006_2K-PNG_Roughness.png
+map_Bump -bm 0.200000 Plastic006_2K-PNG_NormalGL.png
+
+newmtl Plastic013A_White_02
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Plastic013A_2K-PNG_Color.png
+map_Ns Plastic013A_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Plastic013A_2K-PNG_NormalGL.png
+
+newmtl Plastic013A_black_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns Plastic013A_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Plastic013A_2K-PNG_NormalGL.png
+
+newmtl Plastic013A_blue_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.300000
+d 1.000000
+illum 3
+map_Ns Plastic013A_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Plastic013A_2K-PNG_NormalGL.png
+
+newmtl Pool_light_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.002008 0.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 4.484019 9.494398 19.978163
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Porcelain_01
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Porcelain002_2K_Color.jpg
+map_Ns Porcelain002_2K_Roughness.jpg
+
+newmtl Recessed_Light_01
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Screen_01
+Ns 869.948486
+Ka 1.000000 1.000000 1.000000
+Kd 0.035931 0.035931 0.035931
+Ks 0.397196 0.397196 0.397196
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Seychelles_Beige_Marble_Tiles_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Seychelles_Beige_Marble_Tiles_wgildfbv_2K_Specular.jpg
+
+newmtl Seychelles_Beige_Marble_Tiles_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Seychelles_Beige_Marble_Tiles_wgildfbv_2K_Specular.jpg
+
+newmtl Shrub_Leaf_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Captura de pantalla_21-2-2026_14174_www.google.com.png
+map_d Captura de pantalla_21-2-2026_14174_www.google.com.png
+
+newmtl Tiles132A_Pool_01
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Tiles132A_2K-PNG_Color.png
+map_Ns Tiles132A_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Tiles132A_2K-PNG_NormalGL.png
+
+newmtl Transparent_Cup_Texture
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Tree_Branch.001
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Uncut_Grass_oilpt20_01
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Uncut_Grass_oilpt20_2K_BaseColor.jpg
+map_Ks Uncut_Grass_oilpt20_2K_Specular.jpg
+
+newmtl Wall_Paint_White_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns asphalt_07_rough_2k.exr
+map_Bump -bm 1.000000 asphalt_07_nor_gl_2k.exr
+
+newmtl Water_Texture
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.393131 0.590981 0.800007
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.333000
+d 1.000000
+illum 2
+
+newmtl Window_glass
+Ns 534.812012
+Ka 0.878505 0.878505 0.878505
+Kd 0.488640 0.457797 0.404885
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.300000
+d 0.302372
+illum 6
+
+newmtl Wine_Cover_01
+Ns 502.809875
+Ka 0.954545 0.954545 0.954545
+Kd 0.800007 0.016333 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Wine_Label_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Gemini_Generated_Image_rl2z3xrl2z3xrl2z (1).png
+map_d Gemini_Generated_Image_rl2z3xrl2z3xrl2z (1).png
+
+newmtl Wood089_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns Wood089_2K-PNG_Roughness.png
+map_Bump -bm 1.000000 Wood089_2K-PNG_NormalGL.png
+
+newmtl Wooden_Floor_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Wooden_Floor_wdipfjw_2K_Specular.jpg
+
+newmtl Wooden_TV_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks Wooden_Floor_wdipfjw_2K_Specular.jpg
+
+newmtl altavoz
+Ns 731.264771
+Ka 1.000000 1.000000 1.000000
+Kd 0.014652 0.014652 0.014652
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl book_pattern_01
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd book_pattern_col1_2k.png
+map_Ns book_pattern_rough_2k.jpg
+map_Bump -bm 1.000000 book_pattern_nor_gl_2k.exr
+
+newmtl brick_wall_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns brick_wall_13_rough_2k.exr
+map_Bump -bm 1.000000 brick_wall_13_nor_gl_2k.exr
+
+newmtl brown_glass_01
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl ceiling_light_01
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl ceiling_light_02
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl clear_denim_fabric_wall_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.155159 0.155159 0.155159
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns denim_fabric_06_rough_2k.exr
+map_Bump -bm 1.000000 denim_fabric_06_nor_gl_2k.exr
+
+newmtl clear_wood_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns dark_wood_rough_2k.exr
+map_Bump -bm 1.000000 dark_wood_nor_gl_2k.exr
+
+newmtl cuerpo
+Ns 901.101196
+Ka 1.000000 1.000000 1.000000
+Kd 0.382509 0.382509 0.382509
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl curly_teddy_checkered_01
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd curly_teddy_checkered_diff_2k.jpg
+map_Ks curly_teddy_checkered_spec_ior_2k.png
+map_Ns curly_teddy_checkered_rough_2k.exr
+map_refl curly_teddy_checkered_metal_2k.exr
+map_Bump -bm 1.000000 curly_teddy_checkered_nor_gl_2k.exr
+
+newmtl curly_teddy_checkered_02
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks curly_teddy_checkered_spec_ior_2k.png
+map_Ns curly_teddy_checkered_rough_2k.exr
+map_refl curly_teddy_checkered_metal_2k.exr
+map_Bump -bm 1.000000 curly_teddy_checkered_nor_gl_2k.exr
+
+newmtl dark_wood_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns dark_wood_rough_2k.exr
+map_Bump -bm 1.000000 dark_wood_nor_gl_2k.exr
+
+newmtl dark_wood_door_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns dark_wood_rough_2k.exr
+map_Bump -bm 1.000000 dark_wood_nor_gl_2k.exr
+
+newmtl dark_wood_table_worn_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns wood_table_worn_rough_2k.exr
+map_Bump -bm 0.500000 wood_table_worn_nor_gl_2k.exr
+
+newmtl denim_fabric_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks denim_fabric_05_spec_ior_2k.png
+map_refl denim_fabric_05_metal_2k.exr
+map_Bump -bm 1.000000 denim_fabric_05_nor_gl_2k.exr
+
+newmtl denim_fabric_01.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd denim_fabric_06_diff_2k.jpg
+map_Ns denim_fabric_06_rough_2k.exr
+map_Bump -bm 1.000000 denim_fabric_06_nor_gl_2k.exr
+
+newmtl denim_fabric_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks denim_fabric_05_spec_ior_2k.png
+map_refl denim_fabric_05_metal_2k.exr
+map_Bump -bm 1.000000 denim_fabric_05_nor_gl_2k.exr
+
+newmtl denim_fabric_03
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks denim_fabric_05_spec_ior_2k.png
+map_refl denim_fabric_05_metal_2k.exr
+map_Bump -bm 1.000000 denim_fabric_05_nor_gl_2k.exr
+
+newmtl denim_fabric_04
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns denim_fabric_06_rough_2k.exr
+map_Bump -bm 1.000000 denim_fabric_06_nor_gl_2k.exr
+
+newmtl denim_fabric_sofa_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks denim_fabric_05_spec_ior_2k.png
+map_refl denim_fabric_05_metal_2k.exr
+map_Bump -bm 1.000000 denim_fabric_05_nor_gl_2k.exr
+
+newmtl denim_fabric_speaker_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks denim_fabric_05_spec_ior_2k.png
+map_refl denim_fabric_05_metal_2k.exr
+map_Bump -bm 1.000000 denim_fabric_05_nor_gl_2k.exr
+
+newmtl denim_fabric_wall_01
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd denim_fabric_06_diff_2k.jpg
+map_Ns denim_fabric_06_rough_2k.exr
+map_Bump -bm 1.000000 denim_fabric_06_nor_gl_2k.exr
+
+newmtl desk_wood_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns dark_wood_rough_2k.exr
+map_Bump -bm 1.000000 dark_wood_nor_gl_2k.exr
+
+newmtl fabric_leather_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns fabric_leather_01_rough_2k.jpg
+map_Bump -bm 1.000000 fabric_leather_01_nor_gl_2k.exr
+
+newmtl fire-flames-on-black-background-free-photo
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd fire-flames-on-black-background-free-photo.png
+map_d fire-flames-on-black-background-free-photo.png
+
+newmtl floral_jacquard_book_01
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd floral_jacquard_diff_2k.jpg
+map_Ks floral_jacquard_spec_ior_2k.png
+map_Ns floral_jacquard_rough_2k.exr
+map_refl floral_jacquard_metal_2k.exr
+map_Bump -bm 1.000000 floral_jacquard_nor_gl_2k.exr
+
+newmtl floral_jacquard_book_grey_01
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd floral_jacquard_diff_2k.jpg
+map_Ks floral_jacquard_spec_ior_2k.png
+map_Ns floral_jacquard_rough_2k.exr
+map_refl floral_jacquard_metal_2k.exr
+map_Bump -bm 1.000000 floral_jacquard_nor_gl_2k.exr
+
+newmtl floral_jacquard_book_red_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800007 0.000000 0.001410
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks floral_jacquard_spec_ior_2k.png
+map_Ns floral_jacquard_rough_2k.exr
+map_refl floral_jacquard_metal_2k.exr
+map_Bump -bm 1.000000 floral_jacquard_nor_gl_2k.exr
+
+newmtl floral_jacquard_book_white_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800007 0.000000 0.001410
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks floral_jacquard_spec_ior_2k.png
+map_Ns floral_jacquard_rough_2k.exr
+map_refl floral_jacquard_metal_2k.exr
+map_Bump -bm 1.000000 floral_jacquard_nor_gl_2k.exr
+
+newmtl front_page_txt_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd -o 1.2 0.39999992 0 -s 4.7000003 4.7 4.7 Gemini_Generated_Image_z2up0sz2up0sz2up.png
+
+newmtl granite_tile_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns granite_tile_rough_2k.exr
+map_Bump -bm 1.000000 granite_tile_nor_gl_2k.exr
+
+newmtl gravel_floor_01
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gravel_floor_02_diff_2k.jpg
+map_Ns gravel_floor_02_rough_2k.exr
+map_Bump -bm 1.000000 gravel_floor_02_nor_gl_2k.exr
+
+newmtl gravel_floor_02
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gravel_floor_02_diff_2k.jpg
+map_Ns gravel_floor_02_rough_2k.exr
+map_Bump -bm 1.000000 gravel_floor_02_nor_gl_2k.exr
+
+newmtl green_glass_01
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl led_escalones
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 20.000000 20.000000 20.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl plank_flooring_01
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd plank_flooring_04_diff_2k.jpg
+map_Ns plank_flooring_04_rough_2k.exr
+map_Bump -bm 1.000000 plank_flooring_04_nor_gl_2k.exr
+
+newmtl rough_linen_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks rough_linen_spec_ior_2k.png
+map_Ns rough_linen_rough_2k.exr
+map_refl rough_linen_metal_2k.exr
+map_Bump -bm 1.000000 rough_linen_nor_gl_2k.exr
+
+newmtl rough_linen_02
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ks rough_linen_spec_ior_2k.png
+map_Ns rough_linen_rough_2k.exr
+map_refl rough_linen_metal_2k.exr
+map_Bump -bm 1.000000 rough_linen_nor_gl_2k.exr
+
+newmtl stone_floor
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns rustic_stone_wall_02_rough_2k.exr
+map_Bump -bm 1.000000 rustic_stone_wall_02_nor_gl_2k.exr
+
+newmtl white_wood_01
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns dark_wood_rough_2k.exr
+map_Bump -bm 1.000000 dark_wood_nor_gl_2k.exr
+
+newmtl wood_table_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wood_table_worn_diff_2k.jpg
+map_Bump -bm 0.500000 wood_table_worn_nor_gl_2k.exr
+
+newmtl wood_table_worn_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wood_table_worn_diff_2k.jpg
+map_Bump -bm 0.500000 wood_table_worn_nor_gl_2k.exr
+
+newmtl wool_boucle_01
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wool_boucle_diff_2k.jpg
+map_Ks wool_boucle_spec_ior_2k.png
+map_Ns wool_boucle_rough_2k.exr
+map_refl wool_boucle_metal_2k.exr
+map_Bump -bm 1.000000 wool_boucle_nor_gl_2k.exr
